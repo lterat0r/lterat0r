@@ -3,7 +3,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=lterat0r&bg_color=60,f986d3,5fa5f8&title_color=fff&text_color=fff&show_icons=true&count_private=true" style="height: 180px;"/> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lterat0r&layout=compact" style="height: 180px;"/>
 </p>
-
+<img src="https://github-readme-stats.vercel.app/api?username=lterat0r&show_icons=true" style="height: 180px;"/>
 <!--
 **lterat0r/lterat0r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
